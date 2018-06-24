@@ -1,5 +1,6 @@
-title: Leap Day theme
-description: Leap Day is a theme for GitHub Pages.
+title: MIT SOLUTION: Wetland Park
+description: Awesome wetland park
 show_downloads: true
-google_analytics:
+google_analytics: true
 theme: jekyll-theme-leap-day
+favicon: /img/favicon.ico
