@@ -13,7 +13,7 @@ We can see that we people really should take serious of the salinization issue a
 
 # OUR SOLUTION
 For our team’s solution, we plan to utilize the salinization area to build a wetland park. We want to reduce the negative effect of the salinization and make people a more livable city. This solution is practical because we already have Hong Kong Wetland Park and Guangzhou Wanqing wetland park under similar circumstances and conditions. We believe that the utilization of the waste land will increase and the environment conditions will improve.    
-![how wetlands work](./img/how wetland works.png)  
+- <img src="/img/wetland.png">
 Inside the wetland park, we need commercialization to benefit the government, the society, and the citizens as well. Therefore, we urge some environmentally friendly and commercially beneficial programs. For instance, we project a certain area in the wetland park and sell the seed and seedling of a certain kind of tree which we call it "shui pu tao" in Chinese(Syzygium jambos（L.）Alston). We encourage every visitor who come to the wetland park to buy one and plant it themselves. This tree can grow really fast and it has been proved by other wetland park all across China that how beautiful and appealing it is in the park. Most importantly, it can grow on saline-alkali soil and turn that soil into normal soil. In China's farming markets, this tree is totally affordable for any normal citizens. After several months or a year, this tree would cover some part the park and gradually change the salinization situation. At the same time, citizens get involved and builder of the park get benefit.   
 
 # IMPACT
