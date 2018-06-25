@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-<img src="/img/ad.png">  
-
 # MIT SOLVE
+
+<img src="/img/ad.png">  
 
 # BACKGROUND
 According to Chinese Ocean News, the increase of the sea level caused by global warming has done great harm to the coastal city in China. The rising sea level corrode and **salinize the coastal land**. In China, Liaoning Province is one of the most seriously corroded cities. The sea level rises at a speed of 3.2 millimeter per year. From 2004 to 2006, the sea level of Liaoning Province was always above the average of previous years. The rising sea level deeply harmed the seawater intrusion disaster, and the **Jinzhou region**, Dalian region are the most typical victims.  
