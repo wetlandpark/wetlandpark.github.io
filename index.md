@@ -2,6 +2,7 @@
 layout: default
 ---
 <img src="/img/ad.png">  
+
 # MIT SOLVE
 
 # BACKGROUND
