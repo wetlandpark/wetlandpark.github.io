@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# MIT SOLVE
+<h1 style="text-align: center">MIT Solve</h1>
 
 <img src="/img/ad.png">  
 
